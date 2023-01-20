@@ -1,2 +1,6 @@
-# web-dev_project
-My first web dev project(Tech4dev)
+
+
+Answers to Git and Github questions.
+1. A
+2. D
+3. A
